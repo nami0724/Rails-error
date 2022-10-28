@@ -5,6 +5,6 @@ class LessonsController < ApplicationController
   end
 
   def call
-    @call = "callアクションが実行されています"
+    @call = "callアクションが実行されています。"
   end
 end
